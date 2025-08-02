@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.dict", "<builtin>.hasattr", "<builtin>.getattr", "<builtin>.map", "<builtin>.ValueError", "<builtin>.list"], "numpy": ["numpy.linspace"], "colorsys": ["colorsys.hls_to_rgb"], "husl": ["husl.husl_to_rgb"], "matplotlib": ["matplotlib.colors.colorConverter.to_rgb"]}

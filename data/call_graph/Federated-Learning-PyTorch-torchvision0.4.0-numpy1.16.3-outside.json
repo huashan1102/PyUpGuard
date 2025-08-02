@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.getattr", "<builtin>.type", "<builtin>.isinstance", "<builtin>.hasattr", "<builtin>.tuple", "<builtin>.len", "<builtin>.super", "<builtin>.TypeError", "<builtin>.ValueError", "<builtin>.zip", "<builtin>.list", "<builtin>.range"], "multiarray": ["multiarray.array"]}

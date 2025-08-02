@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/recommendation-engine-using-social-graph/recommendation-engine-using-social-graph",
+    "requirementsPath": "/media/lei/pcartRequirements/recommendation-engine-using-social-graph1.11_requirements.txt",
+    "targetLibrary": "networkx",
+    "startVersion": "1.11",
+    "targetVersion": "2",
+    "pythonVersion": "3.5",
+    "knowledgePath": "/dataset/lei/"
+}

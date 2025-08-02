@@ -1,0 +1,1 @@
+["torchvision.transforms.transforms.Compose.__init__", "torchvision.datasets.cifar.CIFAR10.__init__", "torchvision.transforms.transforms.ToTensor.__init__", "torchvision.datasets.mnist.MNIST.__init__", "torchvision.transforms.transforms.Normalize.__init__"]

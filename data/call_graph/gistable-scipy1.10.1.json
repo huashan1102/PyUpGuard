@@ -1,0 +1,1 @@
+{"scipy.optimize._zeros_py.brentq": ["<builtin>.isinstance", "operator.index", "<builtin>.ValueError", "scipy.optimize._zeros_py.results_c"], "scipy.optimize._zeros_py.results_c": ["scipy.optimize._zeros_py.RootResults.__init__"]}

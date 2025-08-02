@@ -1,0 +1,1 @@
+{"torchvision.transforms.transforms.ToTensor.__init__": ["torchvision.utils._log_api_usage_once"], "torchvision.utils._log_api_usage_once": ["<builtin>.isinstance", "torch._C._log_api_usage_once"]}

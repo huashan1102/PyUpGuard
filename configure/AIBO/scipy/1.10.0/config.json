@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/AIBO/AIBO",
+    "requirementsPath": "/media/lei/pcartRequirements/AIBO1.7.3_requirements.txt",
+    "targetLibrary": "scipy",
+    "startVersion": "1.7.3",
+    "targetVersion": "1.10.0",
+    "pythonVersion": "3.8",
+    "knowledgePath": "/dataset/lei/"
+}

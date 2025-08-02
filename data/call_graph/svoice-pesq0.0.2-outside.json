@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.print", "<builtin>.ValueError", "<builtin>.max"], "numpy": ["numpy.max", "numpy.abs"], "cypesq": ["cypesq.cypesq"]}

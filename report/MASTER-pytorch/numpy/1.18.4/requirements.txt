@@ -1,0 +1,14 @@
+certifi==2021.5.30
+distance==0.1.3
+future==1.0.0
+lmdb==1.3.0
+numpy==1.18.4
+opencv-python==4.6.0.66
+pandas==1.0.5
+pillow==7.2.0
+python-dateutil==2.9.0.post0
+pytz==2024.1
+six==1.16.0
+torch==1.5.1
+torchvision==0.6.1
+tqdm==4.47.0

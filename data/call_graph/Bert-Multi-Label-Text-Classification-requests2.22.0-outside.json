@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.len", "<builtin>.super", "<builtin>.hasattr", "<builtin>.set", "<builtin>.TypeError", "<builtin>.list", "<builtin>.bool"], "urllib3": ["urllib3.util.retry.Retry", "urllib3.util.retry.Retry.from_int", "urllib3.poolmanager.PoolManager"]}

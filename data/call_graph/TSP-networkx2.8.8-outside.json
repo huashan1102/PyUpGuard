@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.len", "<builtin>.max", "<builtin>.isinstance", "<builtin>.type", "<builtin>.list", "<builtin>.set", "<builtin>.str", "<builtin>.dict", "<builtin>.zip", "<builtin>.min", "<builtin>.all", "<builtin>.ValueError", "<builtin>.next", "<builtin>.iter", "<builtin>.hasattr", "<builtin>.TypeError"], "itertools": ["itertools.repeat"], "warnings": ["warnings.warn"]}

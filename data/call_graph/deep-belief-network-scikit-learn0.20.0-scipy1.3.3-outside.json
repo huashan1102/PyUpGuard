@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.isinstance", "<builtin>.len", "<builtin>.ValueError", "<builtin>.max", "<builtin>.TypeError", "<builtin>.bool", "<builtin>.int"], "numpy": ["numpy.zeros", "numpy.asarray", "numpy.array", "numpy.ndim", "numpy.iinfo", "numpy.issubdtype", "numpy.dtype", "numpy.atleast_2d", "numpy.max", "numpy.diff", "numpy.isscalar"], "warnings": ["warnings.warn"]}

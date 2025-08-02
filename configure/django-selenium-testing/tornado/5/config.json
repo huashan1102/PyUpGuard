@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/django-selenium-testing/django-selenium-testing",
+    "requirementsPath": "/media/lei/pcartRequirements/django-selenium-testing3.1_requirements.txt",
+    "targetLibrary": "tornado",
+    "startVersion": "3.1",
+    "targetVersion": "5",
+    "pythonVersion": "3.4",
+    "knowledgePath": "/dataset/lei/"
+}

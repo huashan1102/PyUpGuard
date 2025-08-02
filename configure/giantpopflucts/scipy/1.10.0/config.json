@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/giantpopflucts/giantpopflucts",
+    "requirementsPath": "/media/lei/pcartRequirements/giantpopflucts1.9.3_requirements.txt",
+    "targetLibrary": "scipy",
+    "startVersion": "1.9.3",
+    "targetVersion": "1.10.0",
+    "pythonVersion": "3.9",
+    "knowledgePath": "/dataset/lei/"
+}

@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/SDOML/SDOML",
+    "requirementsPath": "/media/lei/pcartRequirements/SDOML3.2.2_requirements.txt",
+    "targetLibrary": "matplotlib",
+    "startVersion": "3.2.2",
+    "targetVersion": "3.3.0",
+    "pythonVersion": "3.6",
+    "knowledgePath": "/dataset/lei/"
+}

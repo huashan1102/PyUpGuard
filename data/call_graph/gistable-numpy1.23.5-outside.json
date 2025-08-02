@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.len", "<builtin>.ValueError", "<builtin>.TypeError", "<builtin>.tuple", "<builtin>.slice", "<builtin>.RuntimeError", "<builtin>.isinstance", "<builtin>.issubclass", "<builtin>.int"], "operator": ["operator.index"]}

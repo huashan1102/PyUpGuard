@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.dict", "<builtin>.range", "<builtin>.ValueError", "<builtin>.int", "<builtin>.tuple", "<builtin>.slice", "<builtin>.enumerate"], "numpy": ["numpy.empty", "numpy.any", "numpy.asarray", "numpy.array", "numpy.lib.arraypad._validate_lengths", "numpy.lib.arraypad._as_pairs"], "warnings": ["warnings.warn"], "distutils": ["distutils.version.LooseVersion"]}

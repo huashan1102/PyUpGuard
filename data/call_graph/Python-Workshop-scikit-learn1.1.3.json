@@ -1,0 +1,1 @@
+{"sklearn.linear_model._ridge.Ridge.__init__": ["<builtin>.super"], "sklearn.linear_model._coordinate_descent.Lasso.__init__": ["sklearn.linear_model._coordinate_descent.ElasticNet.__init__", "<builtin>.super"]}

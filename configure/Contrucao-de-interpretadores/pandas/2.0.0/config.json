@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/Contrucao-de-interpretadores/Contrucao-de-interpretadores",
+    "requirementsPath": "/media/lei/pcartRequirements/Contrucao-de-interpretadores1.5.3_requirements.txt",
+    "targetLibrary": "pandas",
+    "startVersion": "1.5.3",
+    "targetVersion": "2.0.0",
+    "pythonVersion": "3.9",
+    "knowledgePath": "/dataset/lei/"
+}

@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/covid19-predictor/covid19-predictor",
+    "requirementsPath": "/media/lei/pcartRequirements/covid19-predictor1.1.3_requirements.txt",
+    "targetLibrary": "scikit-learn",
+    "startVersion": "1.1.3",
+    "targetVersion": "1.2.0",
+    "pythonVersion": "3.9",
+    "knowledgePath": "/dataset/lei/"
+}

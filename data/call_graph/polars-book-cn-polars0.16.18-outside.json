@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.isinstance", "<builtin>.ValueError", "<builtin>.TypeError", "<builtin>.type", "<builtin>.list", "<builtin>.str", "<builtin>.int"], "polars": ["polars.polars.py_date_range_lazy", "polars.polars.py_date_range", "polars.polars.cols", "polars.polars.dtype_cols", "polars.polars.col"], "datetime": ["datetime.datetime"]}

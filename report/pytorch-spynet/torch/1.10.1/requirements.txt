@@ -1,0 +1,8 @@
+coloredlogs==15.0.1
+future==1.0.0
+humanfriendly==10.0
+mpmath==1.2.1
+numpy==1.15.0
+pillow==5.0.0
+sympy==1.10.1
+torch==1.10.1

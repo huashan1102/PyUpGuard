@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.isinstance", "<builtin>.ValueError", "<builtin>.len", "<builtin>.max", "<builtin>.TypeError", "<builtin>.type"], "random": ["random.randint"]}

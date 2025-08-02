@@ -1,0 +1,4 @@
+coverage==4.5.4
+dill==0.3.4
+redis==2.7.5
+tornado==5

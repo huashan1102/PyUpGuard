@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.RuntimeError", "<builtin>.ValueError", "<builtin>.hasattr"], "soundfile": ["soundfile.SoundFile", "soundfile.info"], "torch": ["torch.from_numpy", "torch.jit.is_scripting", "torch.ops.torchaudio.sox_io_load_audio_file", "torch.ops.torchaudio.sox_io_get_info"], "os": ["os.fspath"], "warnings": ["warnings.warn"]}

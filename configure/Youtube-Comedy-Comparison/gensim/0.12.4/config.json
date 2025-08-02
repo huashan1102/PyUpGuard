@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/Youtube-Comedy-Comparison/Youtube-Comedy-Comparison",
+    "requirementsPath": "/media/lei/pcartRequirements/Youtube-Comedy-Comparison0.12.3_requirements.txt",
+    "targetLibrary": "gensim",
+    "startVersion": "0.12.3",
+    "targetVersion": "0.12.4",
+    "pythonVersion": "3.4",
+    "knowledgePath": "/dataset/lei/"
+}

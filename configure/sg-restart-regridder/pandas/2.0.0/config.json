@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/sg-restart-regridder/sg-restart-regridder",
+    "requirementsPath": "/media/lei/pcartRequirements/sg-restart-regridder1.5.3_requirements.txt",
+    "targetLibrary": "pandas",
+    "startVersion": "1.5.3",
+    "targetVersion": "2.0.0",
+    "pythonVersion": "3.8",
+    "knowledgePath": "/dataset/lei/"
+}

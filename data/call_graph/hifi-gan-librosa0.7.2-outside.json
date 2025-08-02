@@ -1,0 +1,1 @@
+{"numpy": ["numpy.all", "numpy.isfinite", "numpy.abs", "numpy.max", "numpy.min", "numpy.sum", "numpy.issubdtype", "numpy.empty_like", "numpy.isnan", "numpy.asarray", "numpy.finfo"], "<builtin>": ["<builtin>.type", "<builtin>.repr"]}

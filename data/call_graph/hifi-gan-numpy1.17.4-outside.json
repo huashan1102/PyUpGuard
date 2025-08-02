@@ -1,0 +1,1 @@
+{"warnings": ["warnings.warn"], "<builtin>": ["<builtin>.isinstance", "<builtin>.type", "<builtin>.open", "<builtin>.super", "<builtin>.getattr", "<builtin>.issubclass"]}

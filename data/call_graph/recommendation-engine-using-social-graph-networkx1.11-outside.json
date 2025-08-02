@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.dict", "<builtin>.zip", "<builtin>.len", "<builtin>.set", "<builtin>.hasattr", "<builtin>.isinstance", "<builtin>.TypeError"], "itertools": ["itertools.chain.from_iterable"], "warnings": ["warnings.warn"]}

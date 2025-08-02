@@ -1,0 +1,1 @@
+["numpy.core.defchararray.array", "numpy.core.function_base.linspace", "numpy.ma.core._convert2ma.__init__", "numpy.lib.histograms.histogram", "numpy.lib.twodim_base.diag", "numpy.ma.core._MaskedUnaryOperation.__init__", "numpy.matlib.randn", "numpy.lib.function_base.median", "numpy.core.numeric.allclose"]

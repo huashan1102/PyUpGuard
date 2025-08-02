@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/qho-control/qho-control",
+    "requirementsPath": "/media/lei/pcartRequirements/qho-control1.8.1_requirements.txt",
+    "targetLibrary": "scipy",
+    "startVersion": "1.8.1",
+    "targetVersion": "1.9.0",
+    "pythonVersion": "3.9",
+    "knowledgePath": "/dataset/lei/"
+}

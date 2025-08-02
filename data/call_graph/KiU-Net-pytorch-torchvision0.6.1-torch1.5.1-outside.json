@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.super", "<builtin>.isinstance", "<builtin>.enumerate", "<builtin>.len", "<builtin>.str", "<builtin>.TypeError", "<builtin>.hasattr", "<builtin>.KeyError", "<builtin>.tuple", "<builtin>.AttributeError", "<builtin>.ValueError"], "math": ["math.sqrt"], "collections": ["collections.OrderedDict"], "itertools": ["itertools.repeat"]}

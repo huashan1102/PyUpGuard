@@ -1,0 +1,1 @@
+{"importlib": ["importlib.import_module"], "<builtin>": ["<builtin>.type", "<builtin>.vars", "<builtin>.getattr", "<builtin>.ImportError", "<builtin>.isinstance", "<builtin>.hasattr", "<builtin>.TypeError", "<builtin>.sorted"], "sys": ["sys._getframe"], "itertools": ["itertools.count"], "re": ["re.match"], "warnings": ["warnings.warn"]}

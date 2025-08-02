@@ -1,0 +1,4 @@
+thefuzz==0.22.1
+z3-solver==4.13.4.0
+packaging==24.0
+requests==2.32.3

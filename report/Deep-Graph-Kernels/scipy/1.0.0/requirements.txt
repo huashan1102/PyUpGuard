@@ -1,0 +1,16 @@
+apgl==0.8.1
+autopep8==2.0.0
+certifi==2020.6.20
+cycler==0.11.0
+decorator==5.1.1
+dill==0.3.4
+matplotlib==2.0.0
+networkx==1.11
+numpy==1.12.0
+pycodestyle==2.9.1
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+scipy==1.0.0
+six==1.16.0
+tomli==1.2.3

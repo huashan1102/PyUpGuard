@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.getattr", "<builtin>.isinstance", "<builtin>.issubclass", "<builtin>.type", "<builtin>.ValueError", "<builtin>.len", "<builtin>.repr", "<builtin>.hasattr", "<builtin>.tuple", "<builtin>.super", "<builtin>.list", "<builtin>.slice", "<builtin>.range", "<builtin>.TypeError", "<builtin>.zip"], "warnings": ["warnings.warn"]}

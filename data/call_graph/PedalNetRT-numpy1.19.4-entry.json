@@ -1,0 +1,1 @@
+["numpy.core.fromnumeric.sum", "numpy.ma.core._MaskedBinaryOperation.__init__", "numpy.lib.scimath.log10", "numpy.core.function_base.linspace", "numpy.core.multiarray.concatenate", "numpy.lib.shape_base.split", "numpy.core.numeric.zeros_like", "numpy.core.defchararray.multiply", "numpy.lib.scimath.power", "numpy.lib.shape_base.array_split"]

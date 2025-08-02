@@ -1,0 +1,1 @@
+{"torch": ["torch.max", "torch.min", "torch.ops.torchvision.nms"], "<builtin>": ["<builtin>.super", "<builtin>.ValueError", "<builtin>.set", "<builtin>.str", "<builtin>.RuntimeError", "<builtin>.isinstance", "<builtin>.TypeError", "<builtin>.type", "<builtin>.len", "<builtin>.int"], "warnings": ["warnings.warn"], "collections": ["collections.OrderedDict"]}

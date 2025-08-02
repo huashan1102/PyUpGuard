@@ -1,0 +1,1 @@
+{"operator": ["operator.index"], "<builtin>": ["<builtin>.TypeError", "<builtin>.type", "<builtin>.ValueError", "<builtin>.float", "<builtin>.super", "<builtin>.getattr", "<builtin>.isinstance", "<builtin>.len", "<builtin>.range", "<builtin>.sorted", "<builtin>.zip", "<builtin>.tuple", "<builtin>.set", "<builtin>.list"]}

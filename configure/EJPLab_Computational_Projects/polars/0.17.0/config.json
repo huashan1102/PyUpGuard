@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/EJPLab_Computational_Projects/EJPLab_Computational_Projects",
+    "requirementsPath": "/media/lei/pcartRequirements/EJPLab_Computational_Projects0.16.18_requirements.txt",
+    "targetLibrary": "polars",
+    "startVersion": "0.16.18",
+    "targetVersion": "0.17.0",
+    "pythonVersion": "3.8",
+    "knowledgePath": "/dataset/lei/"
+}

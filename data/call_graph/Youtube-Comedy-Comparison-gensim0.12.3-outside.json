@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.int", "<builtin>.map", "<builtin>.len", "<builtin>.enumerate", "<builtin>.ValueError", "<builtin>.list", "<builtin>.open", "<builtin>.hasattr", "<builtin>.type"], "numpy": ["numpy.zeros", "numpy.fromstring", "numpy.dtype", "numpy.ascontiguousarray"], "six": ["six.moves.xrange"], "os": ["os.path.splitext"]}

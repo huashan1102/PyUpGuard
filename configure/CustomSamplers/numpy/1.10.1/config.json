@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/CustomSamplers/CustomSamplers",
+    "requirementsPath": "/media/lei/pcartRequirements/CustomSamplers1.9.3_requirements.txt",
+    "targetLibrary": "numpy",
+    "startVersion": "1.9.3",
+    "targetVersion": "1.10.1",
+    "pythonVersion": "3.6",
+    "knowledgePath": "/dataset/lei/"
+}

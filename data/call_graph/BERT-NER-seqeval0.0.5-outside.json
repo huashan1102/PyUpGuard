@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.set", "<builtin>.max", "<builtin>.len", "<builtin>.any", "<builtin>.isinstance", "<builtin>.enumerate"], "collections": ["collections.defaultdict"], "numpy": ["numpy.average", "numpy.sum"]}

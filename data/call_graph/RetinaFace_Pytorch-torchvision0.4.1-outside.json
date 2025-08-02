@@ -1,0 +1,1 @@
+{"torch": ["torch.max", "torch.min"], "<builtin>": ["<builtin>.isinstance", "<builtin>.int", "<builtin>.super", "<builtin>.ValueError", "<builtin>.set", "<builtin>.len", "<builtin>.hasattr", "<builtin>.str", "<builtin>.RuntimeError"], "warnings": ["warnings.warn"], "collections": ["collections.OrderedDict"]}

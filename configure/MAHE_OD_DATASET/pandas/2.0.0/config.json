@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/MAHE_OD_DATASET/MAHE_OD_DATASET",
+    "requirementsPath": "/media/lei/pcartRequirements/MAHE_OD_DATASET1.5.3_requirements.txt",
+    "targetLibrary": "pandas",
+    "startVersion": "1.5.3",
+    "targetVersion": "2.0.0",
+    "pythonVersion": "3.9",
+    "knowledgePath": "/dataset/lei/"
+}

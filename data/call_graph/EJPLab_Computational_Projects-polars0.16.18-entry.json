@@ -1,0 +1,1 @@
+["polars.functions.lazy.lit", "polars.functions.lazy.col", "polars.io.csv.functions.read_csv"]

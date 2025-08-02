@@ -1,0 +1,1 @@
+["numpy.linalg.linalg.norm", "numpy.core.fromnumeric.prod", "numpy.core.fromnumeric.mean", "numpy.core.fromnumeric.shape", "numpy.core.numeric.asarray", "numpy.lib.scimath.sqrt", "numpy.core.records.array", "numpy.core.numeric.ones", "numpy.linalg.linalg.transpose", "numpy.ma.core._convert2ma.__init__", "numpy.ma.core._MaskedUnaryOperation.__init__"]

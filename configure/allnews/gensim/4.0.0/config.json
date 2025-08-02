@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/allnews/allnews",
+    "requirementsPath": "/media/lei/pcartRequirements/allnews3.8.3_requirements.txt",
+    "targetLibrary": "gensim",
+    "startVersion": "3.8.3",
+    "targetVersion": "4.0.0",
+    "pythonVersion": "3.7",
+    "knowledgePath": "/dataset/lei/"
+}

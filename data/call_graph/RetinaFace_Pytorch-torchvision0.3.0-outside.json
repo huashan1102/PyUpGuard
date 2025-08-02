@@ -1,0 +1,1 @@
+{"warnings": ["warnings.warn"], "<builtin>": ["<builtin>.super", "<builtin>.isinstance", "<builtin>.int", "<builtin>.len"]}

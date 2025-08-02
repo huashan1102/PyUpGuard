@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/gistable/gistable",
+    "requirementsPath": "/media/lei/pcartRequirements/gistable1.23.5_requirements.txt",
+    "targetLibrary": "numpy",
+    "startVersion": "1.23.5",
+    "targetVersion": "1.24.0",
+    "pythonVersion": "3.8",
+    "knowledgePath": "/dataset/lei/"
+}

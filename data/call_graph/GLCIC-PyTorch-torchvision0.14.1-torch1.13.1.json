@@ -1,0 +1,1 @@
+{"torch.jit._trace.is_tracing": ["torch._jit_internal.is_scripting"], "torch": ["<builtin>.isinstance"], "torch.distributions.constraints._Stack.__init__": ["<builtin>.all", "<builtin>.isinstance", "<builtin>.list", "<builtin>.super"], "torch.distributions.constraints._Cat.__init__": ["<builtin>.all", "<builtin>.isinstance", "<builtin>.list", "<builtin>.len", "<builtin>.super"]}

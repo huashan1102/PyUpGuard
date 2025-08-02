@@ -1,0 +1,9 @@
+{
+    "projPath": "./example/PyTorch-ENet",
+    "requirementsPath": "./example/requirements.txt",
+    "targetLibrary": "pillow",
+    "startVersion": "6.2.0",
+    "targetVersion": "7.0.0",
+    "pythonVersion": "3.7",
+    "knowledgePath": "./"
+}

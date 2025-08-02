@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/fuel_forecast_explorer/fuel_forecast_explorer",
+    "requirementsPath": "/media/lei/pcartRequirements/fuel_forecast_explorer1.5.3_requirements.txt",
+    "targetLibrary": "pandas",
+    "startVersion": "1.5.3",
+    "targetVersion": "2.0.0",
+    "pythonVersion": "3.8",
+    "knowledgePath": "/dataset/lei/"
+}

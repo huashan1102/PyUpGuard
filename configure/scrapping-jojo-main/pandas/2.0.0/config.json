@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/scrapping-jojo-main/scrapping-jojo-main",
+    "requirementsPath": "/media/lei/pcartRequirements/scrapping-jojo-main1.5.3_requirements.txt",
+    "targetLibrary": "pandas",
+    "startVersion": "1.5.3",
+    "targetVersion": "2.0.0",
+    "pythonVersion": "3.9",
+    "knowledgePath": "/dataset/lei/"
+}

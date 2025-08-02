@@ -1,0 +1,1 @@
+["torch.__init__.is_tensor", "torch.onnx.symbolic.stack", "torch.onnx.symbolic.cat"]

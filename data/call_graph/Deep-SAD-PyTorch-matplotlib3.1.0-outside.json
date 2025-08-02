@@ -1,0 +1,1 @@
+{"sys": ["sys._getframe"], "itertools": ["itertools.count"], "re": ["re.match"], "warnings": ["warnings.warn"], "importlib": ["importlib.import_module"], "<builtin>": ["<builtin>.type", "<builtin>.vars", "<builtin>.ImportError", "<builtin>.isinstance", "<builtin>.hasattr", "<builtin>.TypeError", "<builtin>.sorted"]}

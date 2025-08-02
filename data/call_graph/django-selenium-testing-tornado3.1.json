@@ -1,0 +1,1 @@
+{"tornado.ioloop.IOLoop.instance": ["<builtin>.hasattr", "tornado.ioloop.IOLoop.__default_init__"], "tornado.tcpserver.TCPServer.__init__": ["<builtin>.isinstance", "<builtin>.KeyError", "os.path.exists", "<builtin>.ValueError"]}

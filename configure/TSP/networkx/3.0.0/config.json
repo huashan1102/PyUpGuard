@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/TSP/TSP",
+    "requirementsPath": "/media/lei/pcartRequirements/TSP2.8.8_requirements.txt",
+    "targetLibrary": "networkx",
+    "startVersion": "2.8.8",
+    "targetVersion": "3.0.0",
+    "pythonVersion": "3.9",
+    "knowledgePath": "/dataset/lei/"
+}

@@ -1,0 +1,1 @@
+{"<builtin>": ["<builtin>.super", "<builtin>.isinstance", "<builtin>.tuple", "<builtin>.set", "<builtin>.ValueError", "<builtin>.AttributeError", "<builtin>.TypeError", "<builtin>.KeyError", "<builtin>.hasattr", "<builtin>.RuntimeError", "<builtin>.reversed", "<builtin>.range"], "math": ["math.sqrt"], "itertools": ["itertools.repeat"], "collections": ["collections.OrderedDict"]}

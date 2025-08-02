@@ -1,0 +1,1 @@
+{"torch": ["<builtin>.isinstance"], "torch.onnx.symbolic.stack": ["torch.onnx.symbolic._unpack_list"], "torch.onnx.symbolic.cat": ["torch.onnx.symbolic._unpack_list"], "torch.onnx.symbolic._unpack_list": ["<builtin>.list"]}

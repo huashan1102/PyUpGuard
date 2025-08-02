@@ -1,0 +1,1 @@
+{"warnings": ["warnings.warn"], "<builtin>": ["<builtin>.str"], "threading": ["threading.Thread.__init__"], "atexit": ["atexit.register"]}

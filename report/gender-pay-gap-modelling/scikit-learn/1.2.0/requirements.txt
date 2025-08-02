@@ -1,0 +1,7 @@
+dill==0.3.9
+joblib==1.4.2
+numpy==1.24.0
+scikit-learn==1.2.0
+scipy==1.13.1
+threadpoolctl==3.5.0
+xgboost==2.1.3

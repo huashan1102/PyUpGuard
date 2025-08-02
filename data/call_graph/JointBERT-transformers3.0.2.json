@@ -1,0 +1,1 @@
+{"transformers.optimization.AdamW.__init__": ["<builtin>.ValueError", "<builtin>.dict", "torch.optim.Optimizer.__init__", "<builtin>.super"], "transformers.optimization.get_linear_schedule_with_warmup": ["<builtin>.max", "<builtin>.float", "torch.optim.lr_scheduler.LambdaLR"]}

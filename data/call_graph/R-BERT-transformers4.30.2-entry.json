@@ -1,0 +1,1 @@
+["transformers.optimization.AdamW.__init__", "transformers.models.bert.modeling_bert.BertModel.__init__", "transformers.optimization.get_linear_schedule_with_warmup", "transformers.tokenization_utils_base.PreTrainedTokenizerBase.from_pretrained", "transformers.configuration_utils.PretrainedConfig.from_pretrained"]

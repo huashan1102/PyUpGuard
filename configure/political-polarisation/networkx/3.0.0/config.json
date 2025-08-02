@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/political-polarisation/political-polarisation",
+    "requirementsPath": "/media/lei/pcartRequirements/political-polarisation2.8.8_requirements.txt",
+    "targetLibrary": "networkx",
+    "startVersion": "2.8.8",
+    "targetVersion": "3.0.0",
+    "pythonVersion": "3.8",
+    "knowledgePath": "/dataset/lei/"
+}

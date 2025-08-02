@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/gender-pay-gap-modelling/gender-pay-gap-modelling",
+    "requirementsPath": "/media/lei/pcartRequirements/gender-pay-gap-modelling1.1.3_requirements.txt",
+    "targetLibrary": "scikit-learn",
+    "startVersion": "1.1.3",
+    "targetVersion": "1.2.0",
+    "pythonVersion": "3.9",
+    "knowledgePath": "/dataset/lei/"
+}

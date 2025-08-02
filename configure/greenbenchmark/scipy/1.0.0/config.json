@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/greenbenchmark/greenbenchmark",
+    "requirementsPath": "/media/lei/pcartRequirements/greenbenchmark0.19.1_requirements.txt",
+    "targetLibrary": "scipy",
+    "startVersion": "0.19.1",
+    "targetVersion": "1.0.0",
+    "pythonVersion": "3.6",
+    "knowledgePath": "/dataset/lei/"
+}

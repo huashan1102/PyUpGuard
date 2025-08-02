@@ -1,0 +1,9 @@
+{
+    "projPath": "/media/lei/pcartProject/polars-book-cn/polars-book-cn",
+    "requirementsPath": "/media/lei/pcartRequirements/polars-book-cn0.16.18_requirements.txt",
+    "targetLibrary": "polars",
+    "startVersion": "0.16.18",
+    "targetVersion": "0.17.0",
+    "pythonVersion": "3.8",
+    "knowledgePath": "/dataset/lei/"
+}
