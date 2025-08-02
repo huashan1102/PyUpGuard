@@ -1,15 +1,7 @@
 ![image](overview.png)
 
-## What is PCREQ?
-PCREQ is an automated tool for inferring compatible requirements for Python third-party library (TPL) upgrades. It is the first to achieve a fully automated process (end-to-end) that includes `knowledge acquisition`, `version compatibility assessment`, `invoked APIs and modules extraction`, `code compatibility assessment`, and `missing TPL completion`. PCREQ specializes in generating a compatible `requirements.txt` when upgrading a target TPL through a comprehensive analysis of both version and code compatibility issues.
-
-
-For PCREQ's design and implementation details, please refer to our [paper](https://www.www.com).
-
-## Evaluation
-[REQBench](https://github.com/PCREQ/REQBench) Benchmark for Python Third-Party Libraries Upgrade.
-
-PCREQ's evaluation results are available [here](https://github.com/PCREQ/PCREQ-evaluation).
+## What is PyUpGuard?
+PyUpGuard is an automated tool for inferring compatible requirements for Python third-party library (TPL) upgrades. It is the first to achieve a fully automated process (end-to-end) that includes `knowledge acquisition`, `version compatibility assessment`, `invoked APIs and modules extraction`, `code compatibility assessment`, and `missing TPL completion`. PyUpGuard specializes in generating a compatible `requirements.txt` when upgrading a target TPL through a comprehensive analysis of both version and code compatibility issues.
 
 ## Usage
 ### Prerequisites
@@ -39,8 +31,6 @@ Assuming that knowledge may be extensive, "knowledgePath" can be customised to o
 
 
 ### Step 2: Knowledge Acquisition
-The extracted knowledge of REQBench can be accessed at [Zenodo](https://pan.nuaa.edu.cn/share/35e84cc569877356916da00362).
-
 **Run Command**
 ```shell
 python knowledge_acquisition.py -config config.json
@@ -61,7 +51,7 @@ python main.py -config config.json
 
 ### Output
 
-The output consists of two parts: the updated `requiremens.txt` and an analysis report, which is located in the `report` directory and contains what PCREQ performed in terms of version and code compatibility checks and fixes. The contents of the report are as follows:
+The output consists of two parts: the updated `requiremens.txt` and an analysis report, which is located in the `report` directory and contains what PyUpGuard performed in terms of version and code compatibility checks and fixes. The contents of the report are as follows:
 ```
 *************Upgrade pillow from 6.2.0 to 7.0.0 in PyTorch-ENet*************
 Checking PyTorch-ENet is compatible with pillow7.0.0?...
